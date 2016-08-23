@@ -1,0 +1,25 @@
+Here are some instructions about using this software which are working in your hear-
+
+1.Loading Item:
+	The first one is loading item in your main window. To load item you just click the menu item "Menu"
+ and then click to menuitem "Loading Item". For the first time you don't need to click this menu item. 
+You need to click this item only after searching for any item.
+
+2.Sell Item:
+	To sell item first click to "Menu" then to "Sell Item". Then in the appeared file select a brand name 
+from the dropdown button, select any model name, select pieces of product you want to sell and you 
+will see the total price. Then click to "Sell" button and click "OK" and it's done.
+
+3. Find Item:
+	To find any desired item you need to click "Menu" and then to "Find Item". Then it will appear a textbox
+to search for any item. You write  Brand or Model name of the item in the textbox and click to Radiobutton "All", 
+"Brand" or "Model" and you will find your desired answer. 
+
+4. Add New Item:
+	If you want to add new product in your system then click to "Edit" and then click "Add New Item" and you will 
+get a new window. Here you fill the form correctly and click OK button and it's done.
+
+5. Update Item:
+	To update item click to "Edit" and then "Update Item" and find a new window. Double click to any row of the table
+and find details. Rewrite contents in the textbox and click to "Update button" and it's done.
+	

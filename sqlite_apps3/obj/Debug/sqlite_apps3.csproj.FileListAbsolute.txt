@@ -1,0 +1,68 @@
+F:\LostFiles2\C#\Practice\DBMS\SQLite\sqlite_apps3\sqlite_apps3\bin\Debug\sqlite_apps3.exe.config
+F:\LostFiles2\C#\Practice\DBMS\SQLite\sqlite_apps3\sqlite_apps3\bin\Debug\sqlite_apps3.exe
+F:\LostFiles2\C#\Practice\DBMS\SQLite\sqlite_apps3\sqlite_apps3\bin\Debug\sqlite_apps3.pdb
+F:\LostFiles2\C#\Practice\DBMS\SQLite\sqlite_apps3\sqlite_apps3\bin\Debug\System.Data.SQLite.dll
+F:\LostFiles2\C#\Practice\DBMS\SQLite\sqlite_apps3\sqlite_apps3\bin\Debug\System.Data.SQLite.xml
+F:\LostFiles2\C#\Practice\DBMS\SQLite\sqlite_apps3\sqlite_apps3\obj\Debug\MainWindow.baml
+F:\LostFiles2\C#\Practice\DBMS\SQLite\sqlite_apps3\sqlite_apps3\obj\Debug\MainWindow.g.cs
+F:\LostFiles2\C#\Practice\DBMS\SQLite\sqlite_apps3\sqlite_apps3\obj\Debug\App.g.cs
+F:\LostFiles2\C#\Practice\DBMS\SQLite\sqlite_apps3\sqlite_apps3\obj\Debug\sqlite_apps3_MarkupCompile.cache
+F:\LostFiles2\C#\Practice\DBMS\SQLite\sqlite_apps3\sqlite_apps3\obj\Debug\sqlite_apps3.g.resources
+F:\LostFiles2\C#\Practice\DBMS\SQLite\sqlite_apps3\sqlite_apps3\obj\Debug\sqlite_apps3.Properties.Resources.resources
+F:\LostFiles2\C#\Practice\DBMS\SQLite\sqlite_apps3\sqlite_apps3\obj\Debug\sqlite_apps3.csproj.GenerateResource.Cache
+F:\LostFiles2\C#\Practice\DBMS\SQLite\sqlite_apps3\sqlite_apps3\obj\Debug\sqlite_apps3.exe
+F:\LostFiles2\C#\Practice\DBMS\SQLite\sqlite_apps3\sqlite_apps3\obj\Debug\sqlite_apps3.pdb
+F:\LostFiles2\C#\Practice\DBMS\SQLite\sqlite_apps3\sqlite_apps3\obj\Debug\Add_Window.baml
+F:\LostFiles2\C#\Practice\DBMS\SQLite\sqlite_apps3\sqlite_apps3\obj\Debug\Add_Window.g.cs
+F:\LostFiles2\C#\Practice\DBMS\SQLite\sqlite_apps3\sqlite_apps3\obj\Debug\Update_Window.baml
+F:\LostFiles2\C#\Practice\DBMS\SQLite\sqlite_apps3\sqlite_apps3\obj\Debug\Update_Window.g.cs
+F:\LostFiles2\C#\Practice\DBMS\SQLite\sqlite_apps3\sqlite_apps3\obj\Debug\Selll_Window.baml
+F:\LostFiles2\C#\Practice\DBMS\SQLite\sqlite_apps3\sqlite_apps3\obj\Debug\Selll_Window.g.cs
+F:\LostFiles2\C#\Practice\DBMS\SQLite\sqlite_apps3\sqlite_apps3\obj\Debug\sqlite_apps3.csprojResolveAssemblyReference.cache
+F:\LostFiles2\C#\Practice\DBMS\SQLite\sqlite_apps3\sqlite_apps3\obj\Debug\help.baml
+F:\LostFiles2\C#\Practice\DBMS\SQLite\sqlite_apps3\sqlite_apps3\obj\Debug\help.g.cs
+G:\My Work\Projects\Mobile phone shop\sqlite_apps3\sqlite_apps3\bin\Debug\sqlite_apps3.exe.config
+G:\My Work\Projects\Mobile phone shop\sqlite_apps3\sqlite_apps3\obj\Debug\sqlite_apps3.exe
+G:\My Work\Projects\Mobile phone shop\sqlite_apps3\sqlite_apps3\obj\Debug\sqlite_apps3.pdb
+G:\My Work\Projects\Mobile phone shop\sqlite_apps3\sqlite_apps3\bin\Debug\sqlite_apps3.exe
+G:\My Work\Projects\Mobile phone shop\sqlite_apps3\sqlite_apps3\bin\Debug\sqlite_apps3.pdb
+G:\My Work\Projects\Mobile phone shop\sqlite_apps3\sqlite_apps3\bin\Debug\System.Data.SQLite.dll
+G:\My Work\Projects\Mobile phone shop\sqlite_apps3\sqlite_apps3\bin\Debug\System.Data.SQLite.xml
+G:\My Work\Projects\Mobile phone shop\sqlite_apps3\sqlite_apps3\obj\Debug\sqlite_apps3.csprojResolveAssemblyReference.cache
+G:\My Work\Projects\Mobile phone shop\sqlite_apps3\sqlite_apps3\obj\Debug\Add_Window.baml
+G:\My Work\Projects\Mobile phone shop\sqlite_apps3\sqlite_apps3\obj\Debug\Help.baml
+G:\My Work\Projects\Mobile phone shop\sqlite_apps3\sqlite_apps3\obj\Debug\MainWindow.baml
+G:\My Work\Projects\Mobile phone shop\sqlite_apps3\sqlite_apps3\obj\Debug\Selll_Window.baml
+G:\My Work\Projects\Mobile phone shop\sqlite_apps3\sqlite_apps3\obj\Debug\Update_Window.baml
+G:\My Work\Projects\Mobile phone shop\sqlite_apps3\sqlite_apps3\obj\Debug\Add_Window.g.cs
+G:\My Work\Projects\Mobile phone shop\sqlite_apps3\sqlite_apps3\obj\Debug\Help.g.cs
+G:\My Work\Projects\Mobile phone shop\sqlite_apps3\sqlite_apps3\obj\Debug\MainWindow.g.cs
+G:\My Work\Projects\Mobile phone shop\sqlite_apps3\sqlite_apps3\obj\Debug\Selll_Window.g.cs
+G:\My Work\Projects\Mobile phone shop\sqlite_apps3\sqlite_apps3\obj\Debug\Update_Window.g.cs
+G:\My Work\Projects\Mobile phone shop\sqlite_apps3\sqlite_apps3\obj\Debug\App.g.cs
+G:\My Work\Projects\Mobile phone shop\sqlite_apps3\sqlite_apps3\obj\Debug\sqlite_apps3_MarkupCompile.cache
+G:\My Work\Projects\Mobile phone shop\sqlite_apps3\sqlite_apps3\obj\Debug\sqlite_apps3.g.resources
+G:\My Work\Projects\Mobile phone shop\sqlite_apps3\sqlite_apps3\obj\Debug\sqlite_apps3.Properties.Resources.resources
+G:\My Work\Projects\Mobile phone shop\sqlite_apps3\sqlite_apps3\obj\Debug\sqlite_apps3.csproj.GenerateResource.Cache
+F:\My Work\Projects\Mobile phone shop\sqlite_apps3\sqlite_apps3\bin\Debug\sqlite_apps3.exe.config
+F:\My Work\Projects\Mobile phone shop\sqlite_apps3\sqlite_apps3\obj\Debug\sqlite_apps3.exe
+F:\My Work\Projects\Mobile phone shop\sqlite_apps3\sqlite_apps3\obj\Debug\sqlite_apps3.pdb
+F:\My Work\Projects\Mobile phone shop\sqlite_apps3\sqlite_apps3\bin\Debug\sqlite_apps3.exe
+F:\My Work\Projects\Mobile phone shop\sqlite_apps3\sqlite_apps3\bin\Debug\sqlite_apps3.pdb
+F:\My Work\Projects\Mobile phone shop\sqlite_apps3\sqlite_apps3\bin\Debug\System.Data.SQLite.xml
+F:\My Work\Projects\Mobile phone shop\sqlite_apps3\sqlite_apps3\obj\Debug\sqlite_apps3.csprojResolveAssemblyReference.cache
+F:\My Work\Projects\Mobile phone shop\sqlite_apps3\sqlite_apps3\obj\Debug\Add_Window.baml
+F:\My Work\Projects\Mobile phone shop\sqlite_apps3\sqlite_apps3\obj\Debug\Help.baml
+F:\My Work\Projects\Mobile phone shop\sqlite_apps3\sqlite_apps3\obj\Debug\MainWindow.baml
+F:\My Work\Projects\Mobile phone shop\sqlite_apps3\sqlite_apps3\obj\Debug\Selll_Window.baml
+F:\My Work\Projects\Mobile phone shop\sqlite_apps3\sqlite_apps3\obj\Debug\Update_Window.baml
+F:\My Work\Projects\Mobile phone shop\sqlite_apps3\sqlite_apps3\obj\Debug\Add_Window.g.cs
+F:\My Work\Projects\Mobile phone shop\sqlite_apps3\sqlite_apps3\obj\Debug\Help.g.cs
+F:\My Work\Projects\Mobile phone shop\sqlite_apps3\sqlite_apps3\obj\Debug\MainWindow.g.cs
+F:\My Work\Projects\Mobile phone shop\sqlite_apps3\sqlite_apps3\obj\Debug\Selll_Window.g.cs
+F:\My Work\Projects\Mobile phone shop\sqlite_apps3\sqlite_apps3\obj\Debug\Update_Window.g.cs
+F:\My Work\Projects\Mobile phone shop\sqlite_apps3\sqlite_apps3\obj\Debug\App.g.cs
+F:\My Work\Projects\Mobile phone shop\sqlite_apps3\sqlite_apps3\obj\Debug\sqlite_apps3_MarkupCompile.cache
+F:\My Work\Projects\Mobile phone shop\sqlite_apps3\sqlite_apps3\obj\Debug\sqlite_apps3.g.resources
+F:\My Work\Projects\Mobile phone shop\sqlite_apps3\sqlite_apps3\obj\Debug\sqlite_apps3.Properties.Resources.resources
+F:\My Work\Projects\Mobile phone shop\sqlite_apps3\sqlite_apps3\obj\Debug\sqlite_apps3.csproj.GenerateResource.Cache

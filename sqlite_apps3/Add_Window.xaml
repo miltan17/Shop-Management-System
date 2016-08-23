@@ -1,0 +1,19 @@
+﻿<Window x:Class="sqlite_apps3.Add_Window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Add New Item" Height="391.506" Width="411.197">
+    <Grid>
+        <Label Content="Model Name:" HorizontalAlignment="Left" Margin="126,35,0,0" VerticalAlignment="Top"/>
+        <Label Content="Description:" HorizontalAlignment="Left" Margin="126,66,0,0" VerticalAlignment="Top"/>
+        <Label Content="Brand Name::" HorizontalAlignment="Left" Margin="126,171,0,0" VerticalAlignment="Top"/>
+        <Label Content="No of Pieces:" HorizontalAlignment="Left" Margin="126,211,0,0" VerticalAlignment="Top"/>
+        <Label Content="Price:" HorizontalAlignment="Left" Margin="126,252,0,0" VerticalAlignment="Top"/>
+        <TextBox Name="txt_model" HorizontalAlignment="Left" Height="23" Margin="221,37,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="txt_brand" HorizontalAlignment="Left" Height="23" Margin="221,171,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="txt_pieces" HorizontalAlignment="Left" Height="23" Margin="221,211,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="txt_price" HorizontalAlignment="Left" Height="23" Margin="221,252,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="txt_description" HorizontalAlignment="Left" Height="65" Margin="140,92,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="201"/>
+        <Button Content="OK" HorizontalAlignment="Left" Margin="140,303,0,0" VerticalAlignment="Top" Width="74" Height="34" Click="Button_Click_1"/>
+
+    </Grid>
+</Window>
